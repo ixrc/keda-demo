@@ -1,0 +1,18 @@
+# VS Code settings
+.vscode/
+.history/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Ignore Python cache directories
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
